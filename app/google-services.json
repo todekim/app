@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72180176236",
+    "firebase_url": "https://ndfcm-ab823.firebaseio.com",
+    "project_id": "ndfcm-ab823",
+    "storage_bucket": "ndfcm-ab823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:b2bd126d3cbe7338d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-tf210997rpciv15skv5poc2b3dhsnn1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.narangdesign.app",
+            "certificate_hash": "2850b7e6bf22de513ec4bae4d6996d95c8641eba"
+          }
+        },
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
