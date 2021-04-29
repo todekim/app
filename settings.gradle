@@ -1,5 +1,3 @@
-include ':fcm'
-include ':kakaomap'
 include ':app'
 rootProject.name = "app"
 
