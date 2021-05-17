@@ -1,3 +1,14 @@
+include ':okhttp_login'
+include ':logintest'
+include ':logintest2'
+include ':logintest'
+include ':login2'
+include ':login'
+include ':loing'
+include ':openauth2'
+include ':fcm'
+include ':kakaomap'
 include ':app'
 rootProject.name = "app"
+include 'openAuth'
 
