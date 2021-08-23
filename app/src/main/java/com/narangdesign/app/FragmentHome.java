@@ -12,7 +12,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import androidx.fragment.app.Fragment;
 
-public class FragmentHome extends Fragment {
+public class FragmentHome extends Fragment implements IOnBackPressed{
     private WebView myWebView;
 
     @Override
@@ -76,5 +76,15 @@ public class FragmentHome extends Fragment {
     public void onActivityCreated(Bundle saveInstanceState){
         super.onActivityCreated(saveInstanceState);
         setRetainInstance(true);
+    }
+
+    @Override
+    public boolean onBackPressed() {
+        if (myWebView.canGoBack()) { // 뒤로가기 눌렀을 때, 뒤로 갈 곳이 있을 경우
+            myWebView.goBack(); // 뒤로가기
+            return false;
+        }else{
+            return true;
+        }
     }
 }

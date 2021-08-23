@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "72180176236-clsqolkncfbie2t1bp3n4ckba0j0b0i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.narangdesign.app",
+            "certificate_hash": "cc958da770b4054f6d004a5e8d98b9234d944fa9"
+          }
+        },
+        {
           "client_id": "72180176236-tf210997rpciv15skv5poc2b3dhsnn1v.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -22,6 +30,449 @@
             "certificate_hash": "2850b7e6bf22de513ec4bae4d6996d95c8641eba"
           }
         },
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:fa8a58a24d2aa70ed10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_at"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:cd6cab800f555a0fd10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_ati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:31e595117e44fb4dd10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_gto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:9a54e7487b74c737d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_iscf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-m024fmbbc06dmnuk1unc0qbikhlcal1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.narangdesign.webzine_iscf",
+            "certificate_hash": "2850b7e6bf22de513ec4bae4d6996d95c8641eba"
+          }
+        },
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:2e48ca94a5f0fa51d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_jungwoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:28736f7e6143b223d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_kapt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:0f43deb30e1bafe4d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_kban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:f1e894004291a241d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_kfas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:ccbe413e532fe0f3d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_koreatech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:763515651bdf1ad3d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_koreayouth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:b2a7eb20cf9b0af2d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_kscvi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:2eead97e5f38fca4d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_kspe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:eb197bcab2143958d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_kvca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:3a80da9dbcdb9d60d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_manpower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-wiH6rBhfYVZtk1Hj9xJ5ufZHXB52ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72180176236:android:29908139762b0395d10f49",
+        "android_client_info": {
+          "package_name": "com.narangdesign.webzine_samsung2"
+        }
+      },
+      "oauth_client": [
         {
           "client_id": "72180176236-h13790rn8b4aq6u67pim5vbdd6v1ia41.apps.googleusercontent.com",
           "client_type": 3
